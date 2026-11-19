@@ -2,7 +2,7 @@
 
 **An AOT-first, full-stack Python framework built for performance, developer experience, and deployment independence.**
 
-ShetabPy is an open-source Python framework by Desi Script, inspired by the developer experience of [Shetab](https://www.desiscript.com/) and the build-time augmentation philosophy of frameworks like [Quarkus](https://quarkus.io/).
+ShetabPy is an open-source Python framework by Desi Script, inspired by the developer experience of [Shetab](https://www.desiscript.com/shetab) and the build-time augmentation philosophy of frameworks like [Quarkus](https://quarkus.io/).
 
 It brings Ahead-of-Time (AOT) application processing, decorator-driven development, compile-time dependency injection, and first-class React and TypeScript integration into a unified development experience.
 
